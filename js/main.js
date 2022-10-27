@@ -12,7 +12,7 @@ function loadMilestones(){
           <div class="checkbox"><input type="checkbox" /></div>
           <div>
             <p>
-              
+              ${milestone.name}
               <span><i class="fas fa-chevron-down"></i></span>
             </p>
           </div>
